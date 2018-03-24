@@ -22,6 +22,24 @@ h1 {
   display: inline-block;
   background-color: #eee; }
 
+.alert, .success, .warning, .oh-dang {
+  border: 1px solid #333;
+  margin: 10px 0;
+  padding: 15px;
+  text-transform: uppercase;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px; }
+
+.success {
+  background: #4caf50; }
+
+.warning {
+  background: #ffcc33; }
+
+.oh-dang {
+  background: red; }
+
 #main-nav {
   background-color: #00AA8D;
   width: 100%;
@@ -45,10 +63,10 @@ h1 {
   -webkit-box-shadow: 0 0 15px #555;
   -moz-box-shadow: 0 0 15px #555;
   box-shadow: 0 0 15px #555;
-  border: 1px solid #00AA8D;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
+  border: 1px solid #00AA8D;
   background-color: #00AA8D;
   width: 22%;
   height: 120px;

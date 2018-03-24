@@ -12,3 +12,7 @@ next step is setup a watcher in sass folder **_sass --watch main.sass:main.css_*
 ##### Manual way of compliling sass
 which is in cmd **_sass app.sass app.css_** 
 and another way is **_sass --watch main.sass:main.css_** for auto compile. 
+
+great book for the advance way to write code 
+here is the website link 
+[smacss.com](https://smacss.com/)

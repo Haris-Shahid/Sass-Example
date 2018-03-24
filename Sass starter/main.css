@@ -4,4 +4,11 @@ body {
 h1 {
   color: white; }
 
+.circle {
+  background-color: darkred;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  box-shadow: 0 0 0px black; }
+
 /*# sourceMappingURL=main.css.map */

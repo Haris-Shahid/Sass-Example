@@ -1,14 +1,16 @@
 body {
-  background-color: cadetblue; }
+  background-color: cadetblue;
+}
 
 h1 {
-  color: white; }
+  color: white;
+}
 
 .circle {
   background-color: darkred;
   height: 100px;
   width: 100px;
   border-radius: 50%;
-  box-shadow: 0 0 0px black; }
-
+  box-shadow: 0 0 0px black;
+}
 /*# sourceMappingURL=main.css.map */

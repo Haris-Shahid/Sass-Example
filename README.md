@@ -21,3 +21,10 @@ here is the website link
     This way of making extension like **footer.sass** if we add **_footer.sass** it
     tell sass do not add this sass in our project with the hel of that you watch all sass folder and compile it into css folder
     and we don't want to change any import statement because sass is smart and he's knows what is partial sass which is **_footer.sass** and what a sass file is **footer.sass**.
+
+***
+
+## starter example Screen
+
+Inline-style: 
+![Screen1](https://github.com/Haris-Shahid/Sass-Example/blob/master/Sass%20starter/sass%20starter%20example/Capture.PNG "Screenshot 1")

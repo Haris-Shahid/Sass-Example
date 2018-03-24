@@ -26,5 +26,10 @@ here is the website link
 
 ## starter example Screen
 
-Inline-style: 
+Screenshot of example 1: 
+
 ![Screen1](https://github.com/Haris-Shahid/Sass-Example/blob/master/Sass%20starter/sass%20starter%20example/Capture.PNG "Screenshot 1")
+
+Screenshot of example 2: 
+
+![Screen1](https://github.com/Haris-Shahid/Sass-Example/blob/master/Sass%20starter/sass%20starter%20example/Capture1.PNG "Screenshot 1")

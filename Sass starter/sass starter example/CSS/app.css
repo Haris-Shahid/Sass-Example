@@ -41,4 +41,19 @@ h1 {
         #main-nav ul li a:hover {
           color: red; }
 
+.pro-img {
+  -webkit-box-shadow: 0 0 15px #555;
+  -moz-box-shadow: 0 0 15px #555;
+  box-shadow: 0 0 15px #555;
+  border: 1px solid #00AA8D;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  background-color: #00AA8D;
+  width: 22%;
+  height: 120px;
+  display: inline-block;
+  float: left;
+  margin: 15px; }
+
 /*# sourceMappingURL=app.css.map */

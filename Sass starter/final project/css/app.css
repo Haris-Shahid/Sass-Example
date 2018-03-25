@@ -1,4 +1,4 @@
-.center-block, .b-video-img {
+.center-block, .b-video-img, .gear-img {
   display: block;
   margin-left: auto;
   margin-right: auto; }
@@ -74,6 +74,11 @@ body {
   background-color: #fffcfc;
   text-align: center; }
 
+.about-container {
+  background-color: #f6f5f5;
+  padding: 70px 0;
+  min-height: 540px; }
+
 .home-title {
   font-size: 40px;
   font-weight: 700;
@@ -102,6 +107,16 @@ body {
     margin: 0 0 15px; }
     .b-card .b-title .b-video {
       margin: 0 auto 15px; }
+
+.about-title {
+  font-size: 2rem;
+  margin: 0 0 30px;
+  color: #212630; }
+
+.about-text {
+  margin: 0 0 50px;
+  color: #363e4e;
+  letter-spacing: -0.025em; }
 
 .nav-header {
   padding: 0 0 10px;

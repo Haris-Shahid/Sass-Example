@@ -69,6 +69,11 @@ body {
   background-color: #212630;
   color: #fff; }
 
+.splitter-container {
+  padding: 40px 0 50px;
+  background-color: #fffcfc;
+  text-align: center; }
+
 .home-title {
   font-size: 40px;
   font-weight: 700;
@@ -131,5 +136,14 @@ body {
 .b-video-img {
   width: 100%;
   padding: 30px 0 40px; }
+
+.img-item {
+  display: inline-block;
+  margin: 0 30px 40px;
+  vertical-align: middle; }
+
+.img-list {
+  margin: 0 -20px -40px;
+  padding: 0; }
 
 /*# sourceMappingURL=app.css.map */

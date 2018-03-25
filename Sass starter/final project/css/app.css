@@ -1,3 +1,8 @@
+.center-block, .b-video-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
 body {
   font-family: "Roboto Slab", serif;
   font-size: 1rem;
@@ -122,5 +127,9 @@ body {
         text-transform: uppercase; }
         .nav-menu .nav-menu-list .nav-item .nav-a:hover {
           color: red; }
+
+.b-video-img {
+  width: 100%;
+  padding: 30px 0 40px; }
 
 /*# sourceMappingURL=app.css.map */

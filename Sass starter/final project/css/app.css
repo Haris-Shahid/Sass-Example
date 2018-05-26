@@ -175,6 +175,9 @@ body {
         .nav-menu .nav-menu-list .nav-item .nav-a:hover {
           color: red; }
 
+.icon {
+  display: none; }
+
 .b-video-img {
   width: 100%;
   padding: 30px 0 40px; }
